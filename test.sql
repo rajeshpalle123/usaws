@@ -1,1 +1,2 @@
-create database pradoshdb
+
+create database siddu
